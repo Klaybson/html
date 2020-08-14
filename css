@@ -1,0 +1,43 @@
+@@ -0,0 +1,43 @@
+body{
+	background-color: #012E40;
+}	
+h1 {
+	padding:0px;
+    margin:0px;
+	background-color: #07598C;
+	
+	color:blank;
+	text-align: center;	
+	font: 90pt arial bold;
+}
+#menu ul{
+	padding:0px;
+    margin:10px;
+    background-color:#ff7700;
+	text-align: center;
+	list-style:none;
+		
+}
+#menu ul li {
+	display: inline; 
+	
+}
+#menu ul li a{
+	
+	padding: 5px 85px;
+	display: inline-block;
+	text-align: center;
+	font: 15pt arial bold;
+    /* visual do link */
+    background-color:#eb902a;
+	color:whitesmoke;
+    text-decoration: none;
+    border-bottom:8px solid #743c0c;
+}
+
+#menu ul li a:hover {
+    background-color:#0eabf3;
+    color: #6D6D6D;
+    border-bottom:2px solid #0e0d0d;
+}
