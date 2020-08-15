@@ -1,1 +1,2 @@
-Dicas de html no arquivo aulas.html
+Dicas inicias HTML no arquivo a.html
+Pagina principal index.html 
